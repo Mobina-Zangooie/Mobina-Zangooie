@@ -1,12 +1,12 @@
 # Mobina Zangooie
 
-I am a Computer Engineering graduate from Alzahra University, where I earned a GPA of 19.41/20 and ranked first among students in my entering cohort.
+I'm a Computer Engineering graduate from Alzahra University, where I earned a GPA of 19.41 and ranked first among students in my entering cohort.
 
-I have been accepted into the M.Sc. program in Artificial Intelligence at Sharif University of Technology. I am building a strong foundation in artificial intelligence through programming, algorithmic problem-solving, and hands-on projects.
+I've been accepted into the M.Sc. program in Artificial Intelligence at Sharif University of Technology. I'm building a strong foundation in artificial intelligence through programming, algorithmic problem-solving, and hands-on projects.
 
 ## Research Interests
 
-I am currently exploring research directions in artificial intelligence, with the goal of identifying problems that align with my interests and developing the skills needed for rigorous research.
+I'm currently exploring research directions in artificial intelligence, with the goal of identifying problems that align with my interests and developing the skills needed for rigorous research.
 
 ## Technical Interests
 
