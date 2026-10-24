@@ -57,7 +57,7 @@ problems through practical implementations and experiments.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mobina-zangooie-20516638a/)
-
-
 - GitHub: [Mobina-Zangooie](https://github.com/Mobina-Zangooie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mobina-zangooie-20516638a/)
+
+
